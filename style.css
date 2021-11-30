@@ -1,0 +1,212 @@
+.head1
+{
+    
+    border-radius: 20px;
+    border:7px groove rgb(81, 49, 167);
+    display: inline-block;
+    background-color: rgb(24, 179, 206);
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: 25px;
+    box-shadow: 5px 5px rgb(118, 41, 163);
+    position: relative;
+    margin-left: 550px;
+    /* float: right; */
+    text-shadow: 2px 2px rgb(126, 89, 72);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container
+{
+    border-width: 7px;
+    border-color: rgb(60, 60, 158);
+    border-style: groove;
+    display:flex;
+    flex-wrap: wrap;
+
+}
+.add
+{
+    border-width: 5px;
+    border-style: groove;
+    border-color: rgb(223, 25, 25);
+    /* display: inline-block; */
+    background-color: burlywood;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-left: 0px;
+    padding-right: 0px;
+    /* display: inline-block; */
+    float: left;
+    margin-left: 0px;
+    
+}
+#add2
+{
+   float: right;
+   width: 146px;
+   height: 127px;
+   /* display: inline-block; */
+   position: relative;
+   margin-left:997px ;
+   /* margin-bottom: 25px; */
+
+}
+img
+{
+    border: 2px solid rgb(25, 10, 238);
+    width: 146px;
+    height: 100px;
+    
+
+} 
+
+#add1
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px rgb(47, 0, 255);
+    display: inline-block;
+    text-shadow: 2px 1px rgb(6, 76, 117);
+
+}
+#add4
+{
+    /* margin-left:900px ; */
+    float: right;
+
+}
+#add5
+{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px rgb(87, 117, 6);
+}
+
+.box
+{
+    height: 150px;
+    width: 150px;
+    border: 5px groove rgb(22, 126, 223);
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px ;
+    font-family: 'Times New Roman', Times, serif;
+    /* display: inline-block; */
+    background-color: rgb(54, 228, 199);
+    box-shadow: 5px 5px rgb(29, 204, 67);
+    
+}
+.box1
+{
+   
+    text-shadow: 2px 2px darkgoldenrod;
+    
+}
+.box3
+{
+    margin-left: 850px;
+    text-shadow: 1px 1px rgb(65, 117, 6);
+    font-size: 15px;
+
+}
+.break
+{
+    margin-left: 1000px;
+}
+input
+{
+    
+    width: 136px;
+
+}
+.submit
+{
+    background-color: green;
+    color:honeydew;
+    width: 70px;
+}
+.fix
+{
+    position: fixed;
+    display: flex;
+    width: 400px;
+    height: 60px;
+    margin-left: 500px;
+    margin-top: -800px;
+    box-shadow: 5px 5px rgb(29, 125, 204);
+    border-radius: 20px;
+    background-color: green;
+    color: rgb(35, 233, 84);
+    font-size: 20px;
+    text-shadow: 2px 1px linen;
+    font-family:'Times New Roman', serif;
+    border: 5px groove rgb(22, 223, 156);
+    padding-top: 5px;
+    padding-left: 10px;
+    
+} 
+/* .Monday
+{
+    
+    margin-right: 30px;
+    padding-left: 20px;
+} */
+.store
+{
+    margin-top: 20px;
+    border-width: 5px;
+    border-color: rgb(139, 102, 0);
+    border-style: groove;
+    width: 600px;
+    margin-left: 400px;
+    display: flex;
+    
+    background-color: rgb(97, 6, 56);
+
+}
+.item
+{
+    height: 150px;
+    width: 288px;
+    /* border: 5px groove rgb(223, 22, 190); */
+    /* border-radius: 20px; */
+    margin: 1px;
+    padding: 5px;
+    font-size: 20px ;
+    font-family: 'Times New Roman', Times, serif;
+    /* display: inline-block; */
+    background-color: rgb(92, 54, 228);
+    /* box-shadow: 5px 5px rgb(140, 29, 204); */
+}
+.Welcome {
+    width: 700px;
+    margin-top: 20px;
+    background-color: rgb(0, 77, 128);
+    border: 10px solid rgba(59, 0, 10, 0.911);
+    text-align: center;
+    margin-left: 318px;
+}
+.lol {
+    width: 345px;
+    height: 260px;
+    border: 1px solid rgb(230, 8, 156);
+    display: inline-block;
+    background-color: rgb(54, 124, 204);
+    line-height: 30px;
+    font-style: italic;
+}
+.frt {
+    position: relative;
+    top: -30px;
+    left: 0px;
+}
+.veg {
+    position: relative;
+    right: 0px;
+}
+.other {
+    position: relative;
+    top: -20px;
+    width: 692px;
+}
